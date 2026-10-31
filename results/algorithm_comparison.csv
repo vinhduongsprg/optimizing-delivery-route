@@ -1,0 +1,3 @@
+method,mean_distance,std_dev,best_distance
+Nearest Neighbor,498.804461,0.000000,498.804461
+Genetic Algorithm,499.362519,23.051994,463.289437
